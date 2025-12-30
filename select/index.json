@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "【オリジナルソング】Intersection / AZKi【Can't stop love with you】",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-30T14:45:56.080826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/01_Intersection_AZKi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "Modern Baseball",
+      "has_synced": true,
+      "path": "select/02_Intersection_Modern_Baseball.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/03_Intersection_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "Nanci Griffith",
+      "has_synced": true,
+      "path": "select/04_Intersection_Nanci_Griffith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "Technimatic",
+      "has_synced": false,
+      "path": "select/05_Intersection_Technimatic.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "Slaughter Beach, Dog",
+      "has_synced": true,
+      "path": "select/06_Intersection_Slaughter_Beach,_Dog.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "Clean Tears feat. IA",
+      "has_synced": false,
+      "path": "select/07_Intersection_Clean_Tears_feat._IA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "INTERSECTION!",
+      "artist": "ヴィット(CV:松風雅也)",
+      "has_synced": false,
+      "path": "select/08_INTERSECTION!_ヴィット(CV_松風雅也).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/09_Intersection_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Intersection",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/10_Intersection_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Intersection of High and Gay",
+      "artist": "Daddy and The Long Legs",
+      "has_synced": false,
+      "path": "select/11_The_Intersection_of_High_and_Gay_Daddy_and_The_Long_Legs.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "INTERSECTION / One Step Closer",
+      "artist": "android.media.metadata.ARTIST",
+      "has_synced": true,
+      "path": "select/12_INTERSECTION___One_Step_Closer_android.media.metadata.ARTIST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Intersection",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_Intersection_AZKi.txt"
+    }
+  ]
+}
